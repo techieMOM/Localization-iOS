@@ -1,0 +1,8 @@
+/* 
+  Localisable.strings
+  Localisation Demo
+
+  Created by SOWJI on 05/09/20.
+  Copyright © 2020 Techie MOM by SOWJI. All rights reserved.
+*/
+"Here we are doing localisation from controller" = "ఇక్కడ మేము నియంత్రిక నుండి స్థానికీకరణ చేస్తున్నాము";

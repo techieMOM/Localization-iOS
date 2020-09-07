@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Localisized strings based label"; ObjectID = "OD2-Nf-RbC"; */
+"OD2-Nf-RbC.text" = "Localisized strings based label";
+
+/* Class = "UILabel"; text = "Hello this is Localisation Demo"; ObjectID = "T47-NL-4Ry"; */
+"T47-NL-4Ry.text" = "హాయ్ ఇది స్థానికీకరణ డెమో";
+
+/* Class = "UITextField"; placeholder = "Selected Language"; ObjectID = "Z6E-C4-H2C"; */
+"Z6E-C4-H2C.placeholder" = "Selected Language";
